@@ -3,3 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    margin: 5px 2px 5px 2px;
+    color: aqua;
+}
+p1{
+    border: 2px 5px 2px 5px;
+}
